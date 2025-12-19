@@ -6,7 +6,7 @@ code which I could finish with maximum 250 line of Code and save 5€ by not buy
 on steam market and doing it myself. Version 2.0 has now 750 lines of Code everything done
 with Python it felt like a war against my brain.
 
-he newest version fixxed following problems of Version 1.1:
+The newest version fixxed following problems of Version 1.1:
 1.) The menu does looks more modern 
 2.) F8 Toggle Crosshair works now perfectly (+ added a extra bind for F9)
 3.) Minmize Button is not buggy anymore and it works
