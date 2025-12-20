@@ -1,6 +1,6 @@
 <img width="1743" height="651" alt="bannerrr" src="https://github.com/user-attachments/assets/60e244e7-dbdb-47ea-9374-2f327e62fba0" />
-DOWNLOAD here the newest Version: https://github.com/Mago51/EasyCrosshair_V1.1/releases/download/New/EasyCrosshair.V2.0.exe
-
+DOWNLOAD here the newest Version: 
+https://github.com/Mago51/EasyCrosshair/releases/download/New/EasyCrosshair.V2.0.exe
 
 # EasyCrosshair_V2.0
 I released now Version 2.0 of my Crosshair Tool. First I thought it would be a easy beginner
